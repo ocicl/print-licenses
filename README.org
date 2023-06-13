@@ -1,0 +1,10 @@
+* print-licenses
+
+Print licenses used by the given project and its dependencies.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/vindarel/print-licenses.git   |
+| commit  | 3949663  |
+| systems | print-licenses |
+|---------+-------------------------------------------|
+
