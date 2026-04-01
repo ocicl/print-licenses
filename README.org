@@ -8,3 +8,4 @@ Print licenses used by the given project and its dependencies.
 | systems | print-licenses |
 |---------+-------------------------------------------|
 
+ 
